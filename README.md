@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="https://yeahza2548.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-FF8D85?style=plastic&logo=Tistory&logoColor=000000"/></a>
+<a href="https://www.instagram.com/yj._.l13/" target="_blank"><img src="https://img.shields.io/badge/yj._.l13-FAD000?style=plastic&logo=Instagram&logoColor=000000"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeyeji13&show_icons=true&theme=aura_dark)
+
 <!--
 **Leeyeji13/Leeyeji13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
