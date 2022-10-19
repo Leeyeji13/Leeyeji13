@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Leeyeji13's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 ### Hi there 👋
 
 <a href="https://yeahza2548.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-FF8D85?style=plastic&logo=Tistory&logoColor=000000"/></a>
